@@ -1,0 +1,35 @@
+
+.cardside{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+   grid-gap: 5px;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  /* align-items: center;
+  justify-content: center; */
+
+  /* background-image: url(https://api.insti.app/static/upload/0852c825-36c.jpg);
+  background-size: cover;
+  background-repeat: no-repeat; */
+  
+  
+}
+.card{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  
+  margin-top: 4px;
+   margin-left: 5px;
+  width: 100%;
+  
+}
+.friendSalary{
+  margin-top: 4px;
+  margin-left: 5px;
+ 
+
+}
+

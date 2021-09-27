@@ -1,0 +1,32 @@
+.total-section{
+    border: 1px solid rgba(108, 145, 145, 0.616);
+    border-radius: 10px;
+    width: 300px;
+    height: 100%;
+    background-color: rgba(48, 128, 101, 0.5);
+    color: whitesmoke;
+}
+.friendname img{
+    margin-top: 20px;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+.btn-bye button{
+    
+    margin-top: .7REM;
+      background-color: goldenrod;
+      padding: 7px 10px;
+      border-radius: 10px;
+      cursor: pointer;
+  
+  }
+  .friendname{
+    border: 1px solid rgba(108, 145, 145, 0.616);
+    border-radius: 10px;
+    margin-top: 4px;
+    width: 300px;
+    height: 100%;
+    background-color: rgba(48, 128, 101, 0.5);
+    color: whitesmoke;
+  }

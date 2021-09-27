@@ -1,0 +1,26 @@
+
+.friendlist{
+    border: 1px solid darkslategray;
+    border-radius: 10px;
+    width: 100%;
+    height: 470px;
+    background-color: rgba(201, 252, 153, 0.712);
+   
+  }
+  .friendlist img{
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    
+    border-radius: 50%;
+  }
+  .btn-regular{
+      background-color: goldenrod;
+      padding: 7px 10px;
+      border-radius: 10px;
+      cursor: pointer;
+  }
+  .text-left{
+    text-align: left;
+    padding-left: 14px;
+  }
