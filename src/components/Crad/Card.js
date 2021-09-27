@@ -39,7 +39,10 @@ const Card = (props) => {
                 </div>
                 <div className="friendSalary">
 
-                    <Cardsalary cardsalary={cardsalary}></Cardsalary>
+                    <Cardsalary
+                        key={cardsalary.key}
+                        cardsalary={cardsalary}
+                    ></Cardsalary>
 
                 </div>
             </div>
